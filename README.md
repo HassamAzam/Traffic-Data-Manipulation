@@ -1,1 +1,1 @@
-# First approach of doing something in Python
+# First time doing something in Python
